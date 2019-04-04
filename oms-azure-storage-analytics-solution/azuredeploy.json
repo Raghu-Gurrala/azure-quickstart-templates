@@ -19,6 +19,7 @@
             "allowedValues": [
                 "westeurope",
                 "eastus",
+                "eastus2",
                 "southeastasia",
                 "australiasoutheast",
                 "westcentralus",
