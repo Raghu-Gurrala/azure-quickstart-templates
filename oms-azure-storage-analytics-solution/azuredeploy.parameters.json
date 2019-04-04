@@ -9,7 +9,7 @@
             "value": "GEN-UNIQUE-20"
         },
         "omsLogAnalyticsRegion": {
-            "value": "eastus"
+            "value": "eastus2"
         },
         "omsLogAnalyticsSku": {
             "value": "free"
